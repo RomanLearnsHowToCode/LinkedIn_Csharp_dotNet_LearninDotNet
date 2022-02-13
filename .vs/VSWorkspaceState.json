@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter_03",
     "\\Chapter_03\\Console_App",
-    "\\Chapter_03\\Console_App\\Console_App"
+    "\\Chapter_03\\Console_App\\Console_App",
+    "\\Chapter_07"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Chapter_07",
   "PreviewInSolutionExplorer": false
 }
