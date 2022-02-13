@@ -27,9 +27,15 @@ Chapter 06
  - Used to create desktop applications
  - Uses XAML markup, syntax similar to XML
  - let`s create mortgage calculator
+
 Chapter 07
-- Chapter 07 notes
+- C# features
+* nameOf operator
+* String interpolation
+* Use static clause
+
 Chapter 08
 - Chapter 08 notes
+
 Chapter 09
 - Chapter 09 notes
