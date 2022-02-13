@@ -22,9 +22,11 @@ Chapter 05
 - RESTful applications on the .NET Framework
 - RESTful is Framework to build HTTP services for various clients, including browsers and mobile
 
-
 Chapter 06 
-- Chapter 06 notes
+ - Windows Presentation Foundation
+ - Used to create desktop applications
+ - Uses XAML markup, syntax similar to XML
+ - let`s create mortgage calculator
 Chapter 07
 - Chapter 07 notes
 Chapter 08
