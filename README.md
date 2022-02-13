@@ -19,6 +19,9 @@ ASP.NET MVC - lightweight, highly testable presentation framework, integrated wi
 
 Chapter 05
 - Creating a Web API
+- RESTful applications on the .NET Framework
+- RESTful is Framework to build HTTP services for various clients, including browsers and mobile
+
 
 Chapter 06 
 - Chapter 06 notes
