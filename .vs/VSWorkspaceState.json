@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter_03"
+    "\\Chapter_03",
+    "\\Chapter_03\\Console_App",
+    "\\Chapter_03\\Console_App\\Console_App"
   ],
-  "SelectedNode": "\\Chapter_03",
+  "SelectedNode": "\\Chapter_03\\Console_App\\Console_App\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
