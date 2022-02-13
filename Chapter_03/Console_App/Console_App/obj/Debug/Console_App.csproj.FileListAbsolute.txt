@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\bin\Debug\Console_App.exe.config
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\bin\Debug\Console_App.exe
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\bin\Debug\Console_App.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\obj\Debug\Console_App.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\obj\Debug\Console_App.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\obj\Debug\Console_App.exe
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_03\Console_App\Console_App\obj\Debug\Console_App.pdb
