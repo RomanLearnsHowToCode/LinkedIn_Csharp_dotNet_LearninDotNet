@@ -35,7 +35,12 @@ Chapter 07
 * Use static clause
 
 Chapter 08
-- Chapter 08 notes
+- Test-Driven Development
+st-driven development is one of the more popular ways of programming to catch bugs early and keep code very testable.
+It's a process that uses uniTEST to guide the code design of your applications. Related to this process is an approach
+called Red, Green, Refactor. Red is where you create tests to purposefully fail, to make sure that your testing code will
+actually catch failed tests. Green is to update those test cases to make them pass, and see that they actually do work.
+And Refactor is to clean up your code, and then ideally, retest.
 
 Chapter 09
 - Chapter 09 notes
