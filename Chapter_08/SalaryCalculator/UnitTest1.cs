@@ -1,7 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using CalculatorFinal;
 
-namespace SalaryCalculator
+namespace SalaryCalculatorTestProject
 {
     /* REQUIREMENTS REFERENCE
      To get hourly, divide annual salary by 2080
@@ -12,17 +13,23 @@ namespace SalaryCalculator
      */
 
     /*
-    RED 
-    GREEN
-    REFACTOR 
+    RED - setting failing test
+    GREEN - setting passing test
+    REFACTOR - update code and retesting again
      */
 
     [TestClass]
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AnnualSalaryTest()
         {
+            // Arrange - setting variables
+            SalaryCalculator sc = new SalaryCalculator();
+            // Act - setting logic
+            decimal annaulSalary = sc.GetAnnualSalary(50);
+            // Assert - testing logic and results expected
+            Assert.AreEqual(10400, annaulSalary);
         }
     }
 }

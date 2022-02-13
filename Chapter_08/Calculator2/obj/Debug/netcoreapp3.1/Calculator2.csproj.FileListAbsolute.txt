@@ -1,0 +1,5 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfo.cs
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.CoreCompileInputs.cache

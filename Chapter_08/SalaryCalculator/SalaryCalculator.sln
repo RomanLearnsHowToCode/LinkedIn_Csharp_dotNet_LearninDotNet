@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculator", "SalaryCalculator.csproj", "{2D3D979D-DCDE-4D1C-B4BD-A5F3DCF57B13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorTestProject", "SalaryCalculatorTestProject.csproj", "{2D3D979D-DCDE-4D1C-B4BD-A5F3DCF57B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorFinal", "..\CalculatorFinal\CalculatorFinal.csproj", "{04AD151A-02ED-4006-8714-EFFE62AFBF81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2D3D979D-DCDE-4D1C-B4BD-A5F3DCF57B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D3D979D-DCDE-4D1C-B4BD-A5F3DCF57B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D3D979D-DCDE-4D1C-B4BD-A5F3DCF57B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AD151A-02ED-4006-8714-EFFE62AFBF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD151A-02ED-4006-8714-EFFE62AFBF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD151A-02ED-4006-8714-EFFE62AFBF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD151A-02ED-4006-8714-EFFE62AFBF81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

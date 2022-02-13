@@ -1,0 +1,6 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\bin\Debug\CalculatorFinal.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\bin\Debug\CalculatorFinal.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\obj\Debug\CalculatorFinal.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\obj\Debug\CalculatorFinal.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\obj\Debug\CalculatorFinal.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\CalculatorFinal\obj\Debug\CalculatorFinal.pdb

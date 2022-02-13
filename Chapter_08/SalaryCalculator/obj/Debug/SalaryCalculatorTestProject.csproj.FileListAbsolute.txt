@@ -1,0 +1,16 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\SalaryCalculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\CalculatorFinal.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\CalculatorFinal.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculatorTestProject.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculatorTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculatorTestProject.csproj.CopyComplete
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

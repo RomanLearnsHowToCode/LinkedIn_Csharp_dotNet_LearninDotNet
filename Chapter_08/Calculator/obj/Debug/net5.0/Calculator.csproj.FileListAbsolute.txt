@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\Calculator\obj\Debug\net5.0\Calculator.pdb

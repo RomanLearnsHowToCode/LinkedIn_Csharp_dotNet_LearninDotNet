@@ -1,0 +1,2 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_08\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
