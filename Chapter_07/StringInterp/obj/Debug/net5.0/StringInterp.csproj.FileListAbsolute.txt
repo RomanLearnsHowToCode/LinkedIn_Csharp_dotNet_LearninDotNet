@@ -1,0 +1,15 @@
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.exe
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.deps.json
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.runtimeconfig.json
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\ref\StringInterp.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\bin\Debug\net5.0\StringInterp.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.AssemblyInfo.cs
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\ref\StringInterp.dll
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.pdb
+C:\Users\Roman\source\repos\LinkedIn_Csharp_dotNet_LearninDotNet\Chapter_07\StringInterp\obj\Debug\net5.0\StringInterp.genruntimeconfig.cache
