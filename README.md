@@ -43,4 +43,7 @@ actually catch failed tests. Green is to update those test cases to make them pa
 And Refactor is to clean up your code, and then ideally, retest.
 
 Chapter 09
-- Chapter 09 notes
+- CROSSPLATFORM
+- .NET Core - lightweight version of .NET Framework
+- Open-source platform available on GitHub
+- Supports Win, macOS, and Linux
