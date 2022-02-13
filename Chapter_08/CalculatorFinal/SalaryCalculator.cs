@@ -12,7 +12,7 @@ namespace CalculatorFinal
         {
             const int HoursInYear = 2080;
             decimal annualSalary = hourlyWage * HoursInYear;
-            return 0; // annualSalary;
+            return annualSalary;
         }
     }
 }

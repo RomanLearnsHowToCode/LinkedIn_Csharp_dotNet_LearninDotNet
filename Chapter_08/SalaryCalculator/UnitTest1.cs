@@ -29,7 +29,7 @@ namespace SalaryCalculatorTestProject
             // Act - setting logic
             decimal annaulSalary = sc.GetAnnualSalary(50);
             // Assert - testing logic and results expected
-            Assert.AreEqual(10400, annaulSalary);
+            Assert.AreEqual(104000, annaulSalary);
         }
     }
 }
